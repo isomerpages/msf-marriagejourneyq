@@ -6,7 +6,7 @@ description: ""
 # i love stats 💖
 ## coding is me passion
 ### the Best is Yet to Be I LOVE ACS I BLEED BLUE RED AND WHITE
-#### hi
+#### 自强不息
 ##### hi
 ###### hi
     - [x] Write the press release

@@ -16,7 +16,13 @@ description: ""
 ![gbtb slay](/images/hero-banner.png)
 😍😍😍
 
-    | Syntax | hellooooo |
-    | --- | ----------- |
-    | PSych | women in STem |
-    | hello | ???? |
+~~women in STEM~~
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+

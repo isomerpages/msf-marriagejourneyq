@@ -5,7 +5,7 @@ description: ""
 ---
 # i love stats 💖
 ## coding is me passion
-### hi
+### the Best is Yet to Be I LOVE ACS I BLEED BLUE RED AND WHITE
 #### hi
 ##### hi
 ###### hi
@@ -23,6 +23,3 @@ description: ""
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
-
-

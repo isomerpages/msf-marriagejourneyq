@@ -12,8 +12,6 @@ description: ""
     - [x] Write the press release
     - [ ] Update the website
     - [ ] Contact the media
-&gt; `SINGAPORE TOURISM BOARD presents.....`
-&gt; 
-&gt; Gardens by the BAE &lt;3
+SINGAPORE TOURISM BOARD presents..... Gardens by the BAE &lt;3
 ![gbtb slay](/images/hero-banner.png)
 😍😍😍

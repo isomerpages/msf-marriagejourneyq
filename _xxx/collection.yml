@@ -1,4 +1,5 @@
 collections:
   xxx:
     output: true
-    order: []
+    order:
+      - jilltrial.md

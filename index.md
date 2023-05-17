@@ -12,6 +12,7 @@ sections:
         - title: ""
           description: ""
           url: ""
+      background: /images/nfw_kv-client-v4-landscape(no qr).jpg
   - infobar:
       title: Gain insights into...
       subtitle: what can you gain from omjq?

@@ -21,10 +21,4 @@ sections:
         future plans.
       button: Click here to do the quiz
       url: /omjqdraft/
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---

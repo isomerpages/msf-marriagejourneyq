@@ -1,13 +1,6 @@
 logo: /images/nfw_logo.png
 links:
+  - title: Our Marriage Journey Quiz
+    url: /omjqdraft/
   - title: Contact Us
     url: /contact-us/
-  - title: OMJQ Draft
-    url: /omjqdraft/
-  - title: Families for Life
-    url: https://ffl.familiesforlife.sg
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
-  - title: Jillian
-    url: /jillian/

@@ -3,7 +3,7 @@ url: https://www.notarealwebsite.gov.sg
 favicon: /images/ffl_red.png
 colors:
   primary-color: "#213e9a"
-  secondary-color: "#f2f4fa"
+  secondary-color: "#213e9a"
   media-colors:
     - title: media-color-one
       color: "#f2f4fa"

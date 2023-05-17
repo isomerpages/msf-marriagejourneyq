@@ -4,12 +4,8 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Apple
-    collection: example-folder
   - title: Families for Life
     url: https://ffl.familiesforlife.sg
     sublinks:
       - title: Submenu Title
         url: /permalink
-  - title: Jillian2
-    url: https://www.notarealwebsite.gov.sg/jillian2/

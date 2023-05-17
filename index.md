@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
+      title: Welcome to Our Marriage Journey Quiz (OMJQ)
       background: /images/hero-banner.png
       key_highlights:
         - title: Highlight A
@@ -20,9 +20,17 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: Gain insights into...
+      subtitle: what can you gain from omjq?
+      description: strengths and areas for growth in your relationship in key areas
+        such as positive connection, effective communication, and agreement of
+        future plans.
       button: Button text
       url: /faq/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---

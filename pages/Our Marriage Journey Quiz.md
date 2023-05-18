@@ -7,8 +7,13 @@ description: ""
 
 <iframe style="width:100%;height:500px" src="https://www.checkfirst.gov.sg/c/014c7c7d-9904-4a64-87c8-c43005651a33"></iframe>
 
+<p>
 
-<h5>
+</p><div style="background-color:#000000; height:5px; width:100%;">
+
+<p>
+</p><p>
+	
 Please help us to fill in the feedback form once you are done with the quiz:
 
-<iframe style="width: 100%; height: 500px" src="https://form.gov.sg/6461a79021c6ea00125d0410" id="iframe"></iframe></h5>
+<iframe style="width: 100%; height: 500px" src="https://form.gov.sg/6461a79021c6ea00125d0410" id="iframe"></iframe></p></div>

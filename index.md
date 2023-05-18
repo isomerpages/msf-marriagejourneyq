@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Welcome to Our Marriage Journey Quiz (OMJQ)
       key_highlights:
         - title: ""
           description: ""

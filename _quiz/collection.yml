@@ -1,0 +1,4 @@
+collections:
+  quiz:
+    output: true
+    order: []

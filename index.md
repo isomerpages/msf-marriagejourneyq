@@ -11,7 +11,7 @@ sections:
         - title: ""
           description: ""
           url: ""
-      background: /images/omjq banner draft 3.jpg
+      background: /images/omjq banner draft 4.jpg
       title: Our Marriage Journey Quiz
   - infobar:
       title: To gain insights into...

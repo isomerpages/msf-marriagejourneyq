@@ -1,4 +1,5 @@
 collections:
   feedback-form:
     output: true
-    order: []
+    order:
+      - Feedback form.md

@@ -11,11 +11,12 @@ sections:
         - title: ""
           description: ""
           url: ""
-      background: /images/nfw_kv-client-v4-landscape(no qr).jpg
+      background: /images/omjq banner draft 2.jpg
+      title: Our Marriage Journey Quiz
   - infobar:
       title: Gain insights into...
       subtitle: what can you gain from omjq?
-      description: strengths and areas for growth in your relationship in key areas
+      description: Strengths and areas for growth in your relationship in key areas
         such as positive connection, effective communication, and agreement of
         future plans.
       button: Click here to do the quiz

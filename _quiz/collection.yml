@@ -1,4 +1,5 @@
 collections:
   quiz:
     output: true
-    order: []
+    order:
+      - Our Marriage Journey Quiz.md

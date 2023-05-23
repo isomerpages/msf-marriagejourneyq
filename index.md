@@ -19,5 +19,5 @@ sections:
         such as positive connection, effective communication, and agreement of
         future plans.
       button: Click here to do the quiz
-      url: /omjqdraft/
+      url: /omjq/
 ---

@@ -11,7 +11,7 @@ sections:
         - title: ""
           description: ""
           url: ""
-      background: /images/omjq banner draft 8.png
+      background: /images/omjq banner draft 9.png
   - infobar:
       title: To gain insights into...
       subtitle: Why do the quiz?

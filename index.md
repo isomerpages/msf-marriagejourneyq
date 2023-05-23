@@ -7,10 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: ""
-          description: ""
-          url: ""
       background: /images/omjq banner draft 10.png
   - infobar:
       title: To gain insights into...

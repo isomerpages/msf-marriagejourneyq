@@ -1,5 +1,5 @@
 title: Our Marriage Journey Quiz
-url: https://www.notarealwebsite.gov.sg
+url: https://omjq.familiesforlife.sg
 favicon: /images/ffl_red.png
 colors:
   primary-color: "#213e9a"
@@ -15,7 +15,7 @@ colors:
       color: "#f2f4fa"
     - title: media-color-five
       color: "#f2f4fa"
-description: An Isomer site of the Singapore Government
+description: Our Marriage Journey Quiz
 permalink: none
 baseurl: ""
 exclude:

@@ -2,7 +2,7 @@
 layout: homepage
 title: Our Marriage Journey Quiz
 description: Our Marriage Journey Quiz
-image: /images/omjq banner draft 10.png
+image: /images/shareicon.png
 permalink: /
 notification: ""
 sections:

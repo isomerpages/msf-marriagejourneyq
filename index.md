@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Our Marriage Journey Quiz
-description: An Isomer site of the Singapore Government
+description: Our Marriage Journey Quiz
 image: /images/nfw_logo.png
 permalink: /
 notification: ""

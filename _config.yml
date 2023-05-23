@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.db5oklqvzeh58.amplifyapp.com
 prod: https://master.db5oklqvzeh58.amplifyapp.com
-shareicon: /images/omjq banner draft 10.png
+shareicon: /images/shareicon.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""

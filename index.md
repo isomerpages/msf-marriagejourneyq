@@ -9,11 +9,8 @@ sections:
   - hero:
       background: /images/omjq banner draft 10.png
   - infobar:
-      title: To gain insights into...
-      subtitle: Why do the quiz?
-      description: Strengths and areas for growth in your relationship in key areas
-        such as positive connection, effective communication, and agreement of
-        future plans.
+      title: Curious on how your marriage journey is going?
+      description: Check your relationship health with the Our Marriage Journey Quiz!
       button: Click here to do the quiz
       url: /omjq/
 ---

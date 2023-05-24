@@ -4,7 +4,7 @@ permalink: /faq/
 description: ""
 ---
 #### Our Marriage Journey Quiz:
-**Q1. Can I share my results with my partner?** <br> The Quiz is current in a test version, so the “sharing” function has not been enabled. You can look forward to this feature in the public launch of the Quiz in end 2023. For now, take a screenshot of your results for your own reference, or to share with your partner.&nbsp;<br> <br> Discuss your results with your partner and sign up together for marriage programmes. Click [here](https://familiesforlife.sg/discover-an-article/Pages/Why-You-Should-Attend-a-Marriage-Preparation-Course.aspx) to find out about marriage programmes supported by the Ministry of Social and Family Development!
+**Q1. Can I share my results with my partner?** <br> The Quiz is currently in a test version, so the “sharing” function has not been enabled. You can look forward to this feature in the public launch of the Quiz in end 2023. For now, take a screenshot of your results for your own reference, or to share with your partner.&nbsp;<br> <br> Discuss your results with your partner and sign up together for marriage programmes. Click [here](https://familiesforlife.sg/discover-an-article/Pages/Why-You-Should-Attend-a-Marriage-Preparation-Course.aspx) to find out about marriage programmes supported by the Ministry of Social and Family Development!
 
 **Q2. Are there right or wrong answers?**&nbsp;<br> No. However, the more honest you are in your responses to the questions, the more accurate your feedback will be.
 

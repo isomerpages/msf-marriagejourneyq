@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/omjq banner draft 12.png
+      background: /images/omjq banner draft 10.png
   - infobar:
       title: Curious on how your marriage journey is going?
       description: Check your relationship health with the Our Marriage Journey Quiz!

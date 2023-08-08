@@ -16,5 +16,3 @@ We are currently doing user testing on OMJQ. There are 2 parts to this user test
 
  <iframe style="width:100%;height:700px" src="https://www.checkfirst.gov.sg/c/c46441b9-3d8f-4bf8-b6c5-12a8f1aac19e"></iframe>
 
-**Next, please complete the feedback form:**
-<iframe style="width: 100%; height: 700px" src="https://form.gov.sg/6461a79021c6ea00125d0410" id="iframe"></iframe><p></p>
